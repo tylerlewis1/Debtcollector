@@ -63,7 +63,8 @@ p{
     position: relative;
     font-size: 3vh;
     right: 7px;
-    top: 3px;
+    top: 8px;
+    font-family: 'Boldonse';
    
 }
 button:hover{
